@@ -1,46 +1,35 @@
-## 📝 License
+# Decentralized Biometric Voting System
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.  
-[View License](https://creativecommons.org/licenses/by-nc/4.0/)
-[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
-# Decentrlized-biomatric-voting-system
-A conceptual decentralized biometric-based voting system that ensures secure, transparent, and tamper-proof elections using fingerprint authentication and blockchain technology.
+A concept and design project exploring how biometric identity verification and blockchain-based records could support a secure and transparent voting process.
 
-# Decentralized Biometric-Based Voting System 🗳️🔐
+## Project Idea
 
-A conceptual project aimed at revolutionizing the voting process by combining **biometric authentication** with **blockchain technology**. This system ensures that elections are secure, transparent, tamper-proof, and accessible, while preventing fraud and identity misuse.
+The proposed system combines fingerprint-based voter verification with a decentralised ledger concept. The design aims to reduce duplicate voting, strengthen identity checks, and make vote records easier to audit.
 
-## 🚀 Project Overview
+## Proposed Features
 
-Traditional voting systems are often vulnerable to manipulation, identity fraud, and lack of transparency. This project proposes a **decentralized biometric-based voting system** where fingerprint authentication verifies each voter's identity, and a **blockchain ledger** securely records each vote — ensuring accuracy and immutability.
+- Fingerprint-based voter identity verification
+- Conceptual blockchain-based vote recording
+- A transparent vote-counting workflow
+- Prevention of duplicate voter submissions
+- An auditable record of voting activity
 
-## 🔍 Key Features
+## Concepts Explored
 
-- ✅ Biometric (fingerprint) voter authentication  
-- ✅ Decentralized vote recording using blockchain  
-- ✅ Real-time vote tallying and transparency  
-- ✅ Elimination of fake/duplicate votes  
-- ✅ Scalable design for national-level implementation
+- Biometric authentication
+- Blockchain and decentralised records
+- Identity verification
+- Security and data integrity
+- Python for proposed backend logic
 
-## 💡 Concepts & Technologies
+## Current Status
 
-- 🔐 Biometric Authentication  
-- 🔗 Blockchain (Ethereum or similar – planned)  
-- 🐍 Python (for backend logic – planned)  
-- 🛡️ Cybersecurity Fundamentals  
-- 🎨 UI/UX Planning (in presentation)  
-- 🧠 Decentralized Identity Verification
+**Concept and design stage.** This repository currently contains the project presentation and design material. The full biometric integration and blockchain implementation are not yet deployed.
 
-## 📁 Project Files
+## Project Material
 
-- `Project_Presentation.pptx` – Full explanation of system flow, features, and architecture.
+[View the project presentation (ODP)](https://github.com/tusharbhos08/Decentrlized-biomatric-voting-system/blob/main/Decentralized%20Biometric%20Authentication%20Voting%20DIV-%20A.odp)
 
-## 📌 Project Status
+## License
 
-Currently at the **concept and design stage**, presented via PowerPoint. Implementation planned in upcoming phases.
-
----
-
-## 🔗 Links
-
-- PPT Link - https://github.com/tusharbhos0008/Decentrlized-biomatric-voting-system/blob/main/Decentralized%20Biometric%20Authentication%20Voting%20DIV-%20A.odp
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
